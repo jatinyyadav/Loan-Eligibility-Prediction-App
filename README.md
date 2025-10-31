@@ -14,7 +14,7 @@ A Streamlit web app that predicts loan approval using an XGBoost model.
 - Credit history, property area, etc.
 
 ### 🌐 Live App
-[Try it here](https://YOUR-STREAMLIT-LINK)
+[Try it here]([https://YOUR-STREAMLIT-LINK](https://loan-eligibility-prediction-app-jatin.streamlit.app/))
 
 ---
 Made with ❤️ by Jay
